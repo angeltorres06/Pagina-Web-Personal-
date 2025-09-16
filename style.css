@@ -6,7 +6,6 @@
 }
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: rgb(16, 10, 34);
     color: white;
@@ -84,4 +83,14 @@ body {
     background-color: #272727;
     border: 2px solid rgb(88, 74, 212);
     cursor: pointer;
+}
+
+.footer{
+    background-color: rgb(98, 207, 241);
+    padding: 24px;
+    color:rgb(16, 10, 34);
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
