@@ -20,7 +20,7 @@
 body {
     box-sizing: border-box;
     background-color: var(--color-primario);
-    color: var (var(--color-secundario));
+    color: var(--color-secundario);
 }
 
 .header{
