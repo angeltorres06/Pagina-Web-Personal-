@@ -75,4 +75,13 @@ body {
     text-decoration: none;
     color: #F6F6F6;
     border: 2px solid rgb(98, 207, 241);
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.presentacion__enlaces__link:hover {
+    background-color: #272727;
+    border: 2px solid rgb(88, 74, 212);
+    cursor: pointer;
 }
