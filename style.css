@@ -40,6 +40,11 @@ body {
     font-family: "Krona One", sans-serif;
 }
 
+.presentacion_contenido_subtitulo:hover {
+    border: 2px solid rgb(88, 74, 212);
+    font-size:14px;
+}
+
 .presentacion_contenido_texto{
     font-size: 24px;
     font-family: "Montserrat", sans-serif;
